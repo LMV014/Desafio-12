@@ -1,0 +1,71 @@
+.navbar
+{
+    position: fixed;
+    z-index: 100;
+    top: 0%;
+    width: 21.7%;
+    background-color: rgb(98, 0, 255);
+    overflow: hidden;
+    left: 40%;
+    border-radius: 30px;
+    top: 20px;
+    text-align: center;
+}
+.navbar a
+{
+    float: left;
+    display: block;
+    color: rgb(255, 255, 255);
+    padding: 16px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ul
+{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+.h
+{
+    margin-top: 150px;
+    margin-left: 43%;
+    margin-right: 50px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    line-height: 1.5;
+}
+.h1
+{
+    margin-top: 150px;
+    margin-left: 48%;
+    margin-right: 50px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    line-height: 1.5; 
+}
+.p
+{
+    margin-top: 90px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 20px;
+    font-family: candara;
+    text-align: justify;
+    line-height: 1.5;
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-radius: 10px;
+    flex: 1;
+    text-align: center;
+    overflow: hidden;
+}
+.card 
+{
+    display: flex;
+    justify-content: space-between;
+    
+}
